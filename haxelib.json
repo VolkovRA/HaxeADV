@@ -1,0 +1,11 @@
+{
+    "name": "adv",
+    "url": "https://github.com/VolkovRA/HaxeADV/blob/master/README.md",
+    "license": "MIT",
+    "tags": ["adv", "ads", "reward", "preroll", "interstitial", "web", "vk"],
+    "description": "Haxe externs for advertising API",
+    "version": "1.0.0",
+    "releasenote": "Release",
+    "contributors": ["VolkovRA"],
+    "classPath": "lib"
+}
